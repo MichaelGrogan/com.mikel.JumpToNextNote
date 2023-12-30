@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>com.mikel.JumpToNextNote</Id>
+  <Version>1.0</Version>
+  <Author>mikel</Author>
+  <Name>Jump To Next Note</Name>
+  <Category>Pattern Editor</Category>
+  <Description>Keybind to Jump to next/previous note</Description>
+</RenoiseScriptingTool>
